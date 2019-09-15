@@ -1,0 +1,1 @@
+These are all solutions to problems from projecteuler.net
